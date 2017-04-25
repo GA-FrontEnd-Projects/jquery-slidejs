@@ -26,7 +26,7 @@ For this exercise, we will use the [jQuery Cycle2](http://jquery.malsup.com/cycl
 
 11. I don't personally like the way this plugin handles its own internal events, but read about its event handling in the documentation and handle the `cycle-after` event so that a `console.log` message with the text "slide changed" appears after each slide change.
 
-12. Some plugins allow options to be set declaratively, which means that they're set in appropriate places in the HTML rather than in JavaScript code. Read the section on declarative options in the documentation and add an option to the slideshow container, `#slides`, that turns off the plugin's default logging in the console.
+12. Some plugins allow options to be set declaratively, which means that they're set in appropriate places in the HTML rather than in JavaScript code. Read the section on declarative options in the documentation to get a sense for how declarative options are set, and then look back at the list of options. Add an option declaratively to the slideshow container, `#slides`, that turns off the plugin's default logging in the console.
 
 13. Explore the other configuation options this plugin has to offer and change one or two of each kind -- JavaScript options, declarative options, and event handling.
 

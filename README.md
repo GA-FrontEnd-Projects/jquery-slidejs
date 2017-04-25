@@ -8,7 +8,7 @@ For this exercise, we will use the [jQuery Cycle2](http://jquery.malsup.com/cycl
 
 2. Open the index.html file in your code editor.
 
-3. Include the SlidesJS source in the `<head>` element of the index file. The source file is located in the `js` folder.
+3. Include the jQuery Cycle2 source in the `<head>` element of the index file. The source file is located in the `js` folder.
 
 4. In your js/script.js file, add the standard `$(document).ready()` statement.
 

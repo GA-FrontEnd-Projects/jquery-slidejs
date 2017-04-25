@@ -1,0 +1,20 @@
+/* Prevents slides from flashing */
+#slides {
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+#slides-container {
+	text-align: center;
+}
+#slides img {
+	max-width: 100%;
+}
+button.prev {
+	float: left;
+}
+button.next {
+	float: right;
+}
+button.pause {
+	margin: 0 auto;
+}
